@@ -1,5 +1,5 @@
 # IJCAI-Paper-List-of-Anomaly-Detection
-A list of accepted papers in recent IJCAI about anomaly detection. A collection of few/zero-shot learning is available at this one's zhihu [link](https://zhuanlan.zhihu.com/p/159450189).
+A list of accepted papers in recent IJCAI about anomaly detection. A collection of few/zero-shot learning is available at this one's zhihu [page](https://zhuanlan.zhihu.com/p/159450189). The following links will be added later.
 
 ## Year 2020
 **Inductive Anomaly Detection on Attributed Networks** [[link]()]     
