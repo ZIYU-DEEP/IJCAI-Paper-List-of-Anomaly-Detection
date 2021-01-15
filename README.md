@@ -1,11 +1,13 @@
 # IJCAI-Paper-List-of-Anomaly-Detection
-A list of accepted papers in recent IJCAI about anomaly detection. A collection of few/zero-shot learning is available at this one's zhihu [page](https://zhuanlan.zhihu.com/p/159450189). The following links will be added later.
+A list of accepted papers in recent IJCAI about anomaly detection. A collection of few/zero-shot learning is available at this one's zhihu [page](https://zhuanlan.zhihu.com/p/159450189). The following links will be added later.  
+
+Those papers focus mostly on (1) new models or (2) improvement of models on real-world applications.
 
 ## Year 2020
 **Inductive Anomaly Detection on Attributed Networks** [[link]()]     
 *Kaize Ding, Jundong Li, Nitin Agarwal, Huan Liu*  
 
-**Robustness of Autoencoders for Anomaly Detection Under Adversarial Impact** [[link]()]       
+**Robustness of Autoencoders for Anomaly Detection Under Adversarial Impact** [[link](https://www.ijcai.org/Proceedings/2020/173)]       
 *Adam Goodge, Bryan Hooi, See Kiong Ng, Wee Siong Ng*  
 
 **Towards a Hierarchical Bayesian Model of Multi-View Anomaly Detection** [[link]()]       
